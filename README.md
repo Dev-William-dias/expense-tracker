@@ -2,8 +2,7 @@
 
 Aplicação desktop em JavaFX para controle financeiro pessoal, permitindo registrar, visualizar, atualizar e excluir despesas em um banco de dados local.
 
-<img src="documentacao/Capturar0.png" height="400" alt="img aplicação em execução"/>
-<img src="documentacao/Capturar1.png" height="400" alt="img aplicação em execução"/>
+<img src="documentacao/Captura.png" height="400" alt="img aplicação em execução"/>
 
 ---
 
@@ -52,3 +51,4 @@ SQLite — Sistema de gerenciamento de banco de dados relacional leve, embutido 
 - Compile e execute o projeto.
 
 - Caso utilize outro banco de dados, modifique a classe DB conforme necessário.
+
